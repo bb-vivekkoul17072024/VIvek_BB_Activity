@@ -1,1 +1,11 @@
+Git is a distributed version control system (VCS) used for tracking changes in source code and collaborating with other developers.
+It allows multiple people to work on the same project efficiently and keeps a history of changes, making it easy to review, revert, and manage code 
+development over time.
+Git cycle:
+1.Intialize a folder to git using (git init file_name).
+2.Set up a staging area for the file where we can preapre and organize changes for our file.(git add file_name).
+can also use (git add.) to add all files to the staging area.
+3.Then last step is to commit when ever we will write (git commit) all the files created will be commited to git.(git commit -m "a message")
+(git log) -> shows all the directories or folders that are commited along with their owner and the message.
+
 
